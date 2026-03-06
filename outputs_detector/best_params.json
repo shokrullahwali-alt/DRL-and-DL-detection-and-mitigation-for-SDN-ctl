@@ -1,0 +1,10 @@
+{
+  "window_len": 5,
+  "cnn_filters": 48,
+  "kernel_size": 3,
+  "lstm_units": 64,
+  "dropout": 0.15000000000000002,
+  "lr": 0.006153085601625313,
+  "batch_size": 128,
+  "l2_reg": 0.0002576417442523316
+}

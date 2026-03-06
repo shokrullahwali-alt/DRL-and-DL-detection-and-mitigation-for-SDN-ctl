@@ -1,0 +1,3 @@
+window_id,step_start,step_end,elapsed_start_s,elapsed_end_s,duration_s,samples_total,first_mit_step,first_mit_elapsed_s,samples_before_mitigation,samples_after_mitigation
+1,10,38,46.1,169.2,123.1,29,12,55.5,2,27
+2,66,103,283.2,434.9,151.7,38,68,291.0,2,36

@@ -1,0 +1,7 @@
+{
+  "temperature": 0.9567861311073458,
+  "ECE_uncalibrated": 0.009088157139778662,
+  "ECE_calibrated": 0.009017564363173232,
+  "brier_uncalibrated": 0.008946405752764789,
+  "brier_calibrated": 0.009024755783151617
+}

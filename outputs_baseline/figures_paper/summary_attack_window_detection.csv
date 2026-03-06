@@ -1,0 +1,4 @@
+phase,n_samples,tp,fn,fp,tn,precision,recall,f1
+all,114,61,6,7,40,0.8970588235294118,0.9104477611940298,0.9037037037037037
+before_first_mitigation,4,0,4,0,0,nan,0.0,nan
+after_first_mitigation,63,61,2,0,0,1.0,0.9682539682539683,0.9838709677419354

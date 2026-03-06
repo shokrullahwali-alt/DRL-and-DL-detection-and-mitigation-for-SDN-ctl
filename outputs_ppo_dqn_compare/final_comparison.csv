@@ -1,0 +1,3 @@
+Algorithm,Composite Score,Attacker ID Accuracy,Selectivity,Detection F1,Detection Precision,Detection Recall,Mean Detection Time (s),False Alarm Rate,Mean Episode Reward
+PPO,0.7311,0.9890,0.9743,0.9821,0.9753,0.9890,194.0,0.0257,200.55
+DQN,0.7408,0.9969,1.0000,0.9985,1.0000,0.9969,193.6,0.0000,446.55

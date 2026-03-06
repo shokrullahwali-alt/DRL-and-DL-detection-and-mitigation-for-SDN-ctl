@@ -1,0 +1,11 @@
+metric,value
+attack_total_packets_mean_on,2662.208791
+attack_total_packets_mean_off,29304.021978
+attack_total_reduction_pct_on_vs_off,90.915210
+attack_forwarded_reduction_pct_on_vs_off,92.102236
+attack_drop_packets_mean_on,1078.329670
+attack_drop_packets_mean_off,0.000000
+attack_drop_ratio_on,0.405051
+attack_drop_ratio_off,0.000000
+benign_total_packets_mean_on,1917.090909
+benign_total_packets_mean_off,10876.157895
