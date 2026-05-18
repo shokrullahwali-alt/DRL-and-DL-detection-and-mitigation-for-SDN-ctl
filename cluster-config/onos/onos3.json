@@ -1,0 +1,19 @@
+{
+  "name": "onos",
+  "clusterSecret": "rocks",
+  "node": {
+    "id": "onos3",
+    "ip": "175.24.1.7",
+    "port": 9876
+  },
+  "controller": [
+    { "id": "onos1", "ip": "175.24.1.5", "port": 9876 },
+    { "id": "onos2", "ip": "175.24.1.6", "port": 9876 },
+    { "id": "onos3", "ip": "175.24.1.7", "port": 9876 }
+  ],
+  "storage": [
+    { "id": "atomix-1", "ip": "175.24.1.2", "port": 5679 },
+    { "id": "atomix-2", "ip": "175.24.1.3", "port": 5679 },
+    { "id": "atomix-3", "ip": "175.24.1.4", "port": 5679 }
+  ]
+}
