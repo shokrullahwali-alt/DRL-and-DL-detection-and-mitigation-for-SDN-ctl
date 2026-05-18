@@ -1,0 +1,4 @@
+nominated_ip,classification,total_nominations,nominations_during_attack,nominations_during_benign,times_accepted,times_sentinel_skipped,correct_target_hits,correct_target_rate,first_seen_step,last_seen_step,skip_reason_sample
+10.10.0.102,unknown_accepted,29,27,2,29,0,26,0.8966,17,45,accepted
+10.10.0.2,unknown_accepted,13,13,0,13,0,13,1.0,63,85,accepted
+10.10.0.4,unknown_accepted,31,27,4,31,0,26,0.8387,106,142,accepted

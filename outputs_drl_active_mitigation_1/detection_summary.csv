@@ -1,0 +1,19 @@
+metric,value
+Total Steps,150.0
+Attack Steps,80.0
+Benign Steps,70.0
+TP,32.0
+FP,0.0
+TN,70.0
+FN,48.0
+Precision,1.0
+Recall,0.4
+F1 Score,0.5714
+ROC AUC,0.9457
+PR AUC,0.9627
+Attack Episodes,3.0
+Would-Mitigate Steps,80.0
+FP Mitigations,0.0
+LSTM Threshold,0.8471859296482412
+Temperature,0.9567861311073458
+Window Length,5.0

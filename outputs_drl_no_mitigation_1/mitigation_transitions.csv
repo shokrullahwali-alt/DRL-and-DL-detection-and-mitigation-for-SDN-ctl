@@ -1,0 +1,7 @@
+step,old_action,new_action,target_ip,reason,old_action_name,new_action_name
+21,0,2,10.10.0.102,agent_decision,ALLOW,BLOCK
+46,2,0,10.10.0.102,attack_ended_gt_0,BLOCK,ALLOW
+62,0,2,10.10.0.2,agent_decision,ALLOW,BLOCK
+90,2,0,10.10.0.2,attack_ended_gt_0,BLOCK,ALLOW
+104,0,2,10.10.0.4,agent_decision,ALLOW,BLOCK
+127,2,0,10.10.0.4,attack_ended_gt_0,BLOCK,ALLOW

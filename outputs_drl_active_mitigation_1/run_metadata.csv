@@ -1,0 +1,7 @@
+key,value
+run_start_time,2026-05-18T15:37:58.649237
+total_duration_s,602.5
+total_steps,150
+active_mitigation,True
+run_mode,active_mitigation
+ip_sentinels_always_skipped,", 0.0.0.0, None, nan, none"
